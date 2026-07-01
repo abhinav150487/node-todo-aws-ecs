@@ -88,15 +88,17 @@ node-todo-aws-ecs/
 ---
 
 ## 📸 Screenshots
+## Docker Build
 
-Add your screenshots here.
+![Docker Build](screenshots/docker-build.png)
 
-- Docker Image Build
-- Amazon ECR Repository
-- Amazon ECS Cluster
-- ECS Task Definition
-- Running ECS Task
-- CloudWatch Logs
+## Amazon ECR
+
+![Amazon ECR](screenshots/ecr-repository.png)
+
+## ECS Cluster
+
+![ECS Cluster](screenshots/ecs-cluster.png)
 
 ---
 
